@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyPets</string>
+    <string name="insira_o_usu_rio">Insira seu e-mail</string>
+    <string name="insira_sua_senha">Insira sua senha</string>
+    <string name="entrar">Entrar</string>
+    <string name="sair">Sair</string>
+    <string name="esqueceu_sua_senha">Esqueceu sua senha!!!</string>
+    <string name="sing_in">Sing in</string>
+    <string name="sing_up">Sing up</string>
+    <string name="sign_in_with_social_media">Sign in with social media</string>
+</resources>
